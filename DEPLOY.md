@@ -56,5 +56,5 @@ Wait 2-3 minutes for the site to deploy, then share this link with everyone! ğŸ
 **Quick Alternative: Netlify (Even Easier!)**
 1. Go to https://netlify.com
 2. Drag and drop your portfolio folder
-3. Get instant link!
+3. Get instant link!!
 
